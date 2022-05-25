@@ -1,1 +1,23 @@
-
+Raesfeld - City
+Flughafen - Airport
+Berlin - City
+Bratwurst - Sausage
+Hauptstrasse - Main road
+Brot - Bread
+Klimaanlage - Air conditioner
+Rammstein - Ramming stone
+Porsche - Car brand
+BMW - Car brand
+Biergarten - Beer garden
+Ratskeller - Pub/bar
+Dirndel - Dress
+Lederhose - Leatherpants
+Schloss - Lock
+Wettbewerbsfaehig - Competitive
+Mehlhase - Professor
+Gebaeck - Pastries
+Baeckerei - Bakery
+Hund - Dog
+Doener - Doner
+Apfelkuchen - Apple Cake
+Eltz - Castle
